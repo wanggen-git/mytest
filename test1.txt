@@ -1,7 +1,5 @@
 aaaaaaaaaaaaaaa
-<<<<<<< HEAD
 bbbbbbbbbbbbbbb
 11111111
-=======
 222222222222222
->>>>>>> dev
+
